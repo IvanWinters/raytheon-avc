@@ -1,3 +1,5 @@
+[2025 Raytheon East Coast Autonomous Vehicle Competition](https://www.youtube.com/watch?v=TaiLjWskhFQ)
+
 # arUco-detection visproc directory instructions
 
 ## Setting up Virtual Environment (Necessary)
